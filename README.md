@@ -14,10 +14,10 @@ This repo contains binaries that I've cross-compiled for the mips architeture. I
 
 Binaries that work, but not well:
 
-* openvpn
+* openvpn (runs, but --help does not work)
 
 Binaries that I am pretty sure don't work or can't remember what they are:
-* python (would not run)
+* python (would not run, most unfortunatly!)
 * client (I think it's a tftp client)
 * server (^)
 
