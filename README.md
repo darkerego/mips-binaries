@@ -4,8 +4,8 @@ This repo contains binaries that I've cross-compiled for the mips architeture. I
 
 * autossh
 * bash (verison 4.3)
-* busybox-mips
-* dbd (see <a href="https://github.com/gitdurandal/dbd">gitdurandal/dbd</a>
+* busybox-mips (full featured version)
+* dbd (see <a href="https://github.com/gitdurandal/dbd">gitdurandal/dbd</a>)
 * dropbear
 * socat
 * synflood (Just a C script for stress testing)
