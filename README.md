@@ -18,8 +18,7 @@ Binaries that work, but not well:
 
 Binaries that I am pretty sure don't work or can't remember what they are:
 * python (would not run, most unfortunatly!)
-* client (I think it's a tftp client)
-* server (^)
+
 
 
 
