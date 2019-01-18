@@ -109,4 +109,6 @@ Binaries that I am pretty sure don't work or can't remember what they are:
 
 
 
+**I am broke. If these binaries helped you and you can afford to throw me a tip, please do!**:
 
+*BTC:1F48WFsbCBGuYCopXnBaK9tM7A2JhAWEyw*
