@@ -109,6 +109,7 @@ Binaries that I am pretty sure don't work or can't remember what they are:
 
 
 
-**Hire me or tip me if these binaries helped you and you can afford to... admin@bit6.io**:
+**Hire me or tip me if these binaries helped you and you can afford to... xelectron@protonmail.com**:
 
-*BTC:1F48WFsbCBGuYCopXnBaK9tM7A2JhAWEyw*
+*BTC:3KD3sKiGSyipijVVJ8jVyLYeRDkkTKzKct*
+*ETH:0x0f7274f04d47c5A7cd08AF848e809396ef6B08A5*
