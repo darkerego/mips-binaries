@@ -111,5 +111,4 @@ Binaries that I am pretty sure don't work or can't remember what they are:
 
 **Hire me or tip me if these binaries helped you and you can afford to... xelectron@protonmail.com**:
 
-*BTC:3KD3sKiGSyipijVVJ8jVyLYeRDkkTKzKct*
-*ETH:0x0f7274f04d47c5A7cd08AF848e809396ef6B08A5*
+ETH: 0x7612E93FF157d1973D0f95Be9E4f0bdF93BAf0DE
