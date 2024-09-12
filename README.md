@@ -1,6 +1,8 @@
 # mips-binaries
 
-This repo contains *all static* binaries that I've cross-compiled for the mips architeture. I thought I would make them public because it's quite difficult to find this kind of stuff, and cross-compiling is a super pain in the ***. Caution: some of these binaries may not run on your system, as this is a finicky process. The binaries that I have tested that do work well include:
+This repo contains *all static* binaries that I've cross-compiled for the mips architeture. I thought I would make them public because it's quite difficult to find this kind of stuff, and cross-compiling is a super pain in the neck. Caution: some of these binaries may not run on your system, as this is a finicky process. The binaries that I have tested that do work well include:
+
+#### ** Please Don't Open Issues Requesting New Binaries, I am no longer working on this and have no plans to do any time soon. ** 
 
 ## More Binaries Added:
 <pre>
